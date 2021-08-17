@@ -1,0 +1,56 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 0;
+}
+h1 {
+    font-size: 15pt;
+    color: #000000;
+    text-align: center;
+    padding: 18px 0 18px 0;
+    margin: 0 0 10px 0;
+}
+h1 span {
+    border: 4px dashed #c5bcbcc7;
+    padding: 10px;
+}
+p {
+    padding: 0;
+    margin: 0;
+}
+.section {
+    background-color: #fff;
+    padding: 155px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+#header {
+    background-image: url("https://cdn.vox-cdn.com/thumbor/KVMEPTdipQr5E_9jL8dZpLxxIIU=/0x0:2040x1360/920x613/filters:focal(866x240:1192x566):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61715415/pixel3_vsavov.0.jpg");
+    background-size: cover;
+}
+#header p {
+    font-size: 25pt;
+    color: #3b464c;
+    padding-top: 5px;
+    margin: 0;
+    font-weight: bold;
+    text-align: center;
+}
+.quote {
+    font-size: 12pt;
+    margin-top: 10px;
+    text-align: right;
+    margin-right: 10px;
+}
+.copyright {
+    font-size: 8pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: grey;
+}
